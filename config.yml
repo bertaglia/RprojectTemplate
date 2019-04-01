@@ -1,0 +1,6 @@
+#exemple
+default:
+    my_awesome_api:
+        url: 'https://awesome_api.internal'
+        username: 'my_test_user'
+        api_key: 'e19bb9e938e85e49037518a102860147'
